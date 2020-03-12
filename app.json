@@ -1,0 +1,15 @@
+{
+    "id": "9da5dfae-b63b-420b-bc09-3c2586bd28aa",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rocket.Chat",
+        "homepage": "https://rocket.chat",
+        "support": "support@roclet.chat"
+    },
+    "name": "Github Integration",
+    "nameSlug": "github-integration",
+    "classFile": "GithubIntegrationApp.ts",
+    "description": "Integrates Github with Rocket.Chat"
+}
